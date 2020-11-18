@@ -1,4 +1,4 @@
-# Sinusoidal_Transform
+# Sinusoidal Transform
 Supporting information for 'Sinusoidal transform of the visual field on the cortical surface', Sedigh-Sarvestani et al. 2020.
 
 This repo contains a google Colab notebook for the map formation model in Figure 3. 
