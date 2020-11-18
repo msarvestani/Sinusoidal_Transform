@@ -1,4 +1,6 @@
 # Sinusoidal_Transform
-Supporting information for paper on visual field transforms in tree shrew V1 and V2.
+Supporting information for 'Sinusoidal transform of the visual field on the cortical surface', Sedigh-Sarvestani et al. 2020.
 
-Videos are here: https://www.youtube.com/playlist?list=PLhW0QP2TWaQiuyeu6d3yh0Q0U-NfNlRoP
+This repo contains a google Colab notebook for the map formation model in Figure 3. 
+
+Supplementary videos are here: https://www.youtube.com/playlist?list=PLhW0QP2TWaQiuyeu6d3yh0Q0U-NfNlRoP
